@@ -1,6 +1,6 @@
 # Square Spiral
 
-##squareSpiral B&W
+## squareSpiral B&W
 
 This code will generate a square spiral in black and white color.
 Number of possible colors in B&W is 0 to 255. The total number of combinations is 256
@@ -15,7 +15,7 @@ Color filling starts in the following way
 The above process repeats till it reaches the center. So the top left corner is black
 and the center is white.
 
-##squareSpiral coloured  
+## squareSpiral coloured  
 
 The color filling method is same as mentioned above. Here R,G,B color combination is used
 to generate the spiral square. The possible combinations in R,G,B  
